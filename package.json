@@ -1,5 +1,5 @@
 {
-    "name": "Abia Water Pay",
+    "name": "abia-water-pay",
     "private": true,
     "engines": {
         "node": "14.15.4",
