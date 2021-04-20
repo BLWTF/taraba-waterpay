@@ -1,0 +1,16 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Buy Water",
+      "slug": "buy-water",
+      "icon": "desktop"
+    },
+    {
+      "url": "/contact",
+      "name": "Contact Us",
+      "slug": "contact",
+      "icon": "desktop"
+    }
+  ]
+}
