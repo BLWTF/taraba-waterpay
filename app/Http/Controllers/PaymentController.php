@@ -85,7 +85,7 @@ class PaymentController extends Controller
             //"Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7",
             "Keep-Alive: 300",
             "Connection: keep-alive",
-            "Hash: $hash"	//hash value
+            "Hash: $hash"
         );   
             
         $ch = curl_init(); 
